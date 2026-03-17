@@ -1,0 +1,58 @@
+$group
+[1] "a_group152"
+
+$members
+[1] "Bony Jaison"      "Anna Susan Moncy" "Jency Jose"       "Navaneeth Joshi" 
+[5] "Jubil Ann Tom"   
+
+$topic
+[1] "Concussion Injuries"
+
+$RQ
+[1] "Is there a difference in mean recovery time of concussion injury among different playing positions?"
+
+$`independent-var`
+[1] "Position"
+
+$`dependent-var`
+[1] "Week.of.Injury"
+
+$`null-hypothesis`
+[1] "Offensive Players are more prone to Concussion compared with defensive players"
+
+$`alt-hypothesis`
+[1] "offensive players are less prone to Concussion compared with defensive players"
+
+$`dataset-url`
+[1] "https://data.world/alice-c/nfl/workspace/file?filename=Concussion+Injuries+2012-2014.csv"
+
+$columns
+[1] "[1] \"ID\"                               \"Player\"\n[3] \"Team\"                             \"Game\"\n[5] \"Date\"                             \"Opposing.Team\"\n[7] \"Position\"                         \"Pre.Season.Injury.\"\n[9] \"Winning.Team.\"                    \"Week.of.Injury\"\n[11] \"Season\"                           \"Weeks.Injured\"\n[13] \"Games.Missed\"                     \"Unknown.Injury.\"\n[15] \"Reported.Injury.Type\"             \"Total.Snaps\"\n[17] \"Play.Time.After.Injury\"           \"Average.Playtime.Before.Injury\"\n "
+
+OK
+datafile: 
+columns: |
+  [1] "ID"                               "Player"
+  [3] "Team"                             "Game"
+  [5] "Date"                             "Opposing.Team"
+  [7] "Position"                         "Pre.Season.Injury."
+  [9] "Winning.Team."                    "Week.of.Injury"
+  [11] "Season"                           "Weeks.Injured"
+  [13] "Games.Missed"                     "Unknown.Injury."
+  [15] "Reported.Injury.Type"             "Total.Snaps"
+  [17] "Play.Time.After.Injury"           "Average.Playtime.Before.Injury"
+   
+datafiles:
+datafile: 
+columns: |
+  [1] "ID"                               "Player"
+  [3] "Team"                             "Game"
+  [5] "Date"                             "Opposing.Team"
+  [7] "Position"                         "Pre.Season.Injury."
+  [9] "Winning.Team."                    "Week.of.Injury"
+  [11] "Season"                           "Weeks.Injured"
+  [13] "Games.Missed"                     "Unknown.Injury."
+  [15] "Reported.Injury.Type"             "Total.Snaps"
+  [17] "Play.Time.After.Injury"           "Average.Playtime.Before.Injury"
+   
+datafiles:

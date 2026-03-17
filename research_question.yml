@@ -1,0 +1,46 @@
+# This file is in YAML format.  You must ensure that the punctuation
+# and whitespace is preserved.  Do NOT use Windows Notepad to edit this
+# file; use a real programming editor like Notepad++ instead.
+
+# Write your group name exactly as it appears on Canvas.
+group:  a_group152
+
+# Write the names of your group members as a comma-separated list
+# within the square brackets.
+members: [Bony Jaison, Anna Susan Moncy, Jency Jose, Navaneeth Joshi, Jubil Ann Tom]
+
+# Write your general topic.
+topic: Concussion Injuries
+
+# Write your research question, following one of the three allowed templates.
+# Be sure your question is all on one line.
+RQ: Is there a difference in mean recovery time of offensive and defensive playing positions?
+
+# Write your independent and dependent variables.  These should be the
+# column names where these variables are found in your dataset's CSV
+# file.
+independent-var:  "Position"
+dependent-var:  "Week.of.Injury"
+
+# Write the null hypothesis for your research question, again ensuring it is all on one line.
+null-hypothesis: There is no difference in mean recovery time of offensive and defensive positions.
+
+# Write the alternative hypothesis for your research question, again ensuring it is all on one line.
+alt-hypothesis: There is a difference in mean recovery time of offensive and defensive positions.
+# Write the dataset URL.  Be sure it has the allowed hostname.
+dataset-url: https://data.world/alice-c/nfl/workspace/file?filename=Concussion+Injuries+2012-2014.csv
+
+# Paste the output of loading your dataset into R, and executing the
+# colnames() function, into the space below the `columns: |` line.
+# Put two spaces *before* every line you pasted.
+columns: |
+ [1] "ID"                               "Player"
+ [3] "Team"                             "Game"
+ [5] "Date"                             "Opposing.Team"
+ [7] "Position"                         "Pre.Season.Injury."
+ [9] "Winning.Team."                    "Week.of.Injury"
+ [11] "Season"                           "Weeks.Injured"
+ [13] "Games.Missed"                     "Unknown.Injury."
+ [15] "Reported.Injury.Type"             "Total.Snaps"
+ [17] "Play.Time.After.Injury"           "Average.Playtime.Before.Injury"
+  

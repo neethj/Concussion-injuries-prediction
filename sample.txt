@@ -1,0 +1,21 @@
+Research Question 
+
+Concussion Data set 
+
+Question : Is there a diffrence in mean recovery time of concussion injury amoung diffrent playing position for NFL footbal players
+
+H0: Deffencive players have higher concussion recovery rate 
+H1 : Deffencive players have lower concussion recovery rate 
+
+
+Question 2 : Is there a correlation between playing time after and before concussion injury 
+
+H0: players play more time a season after injury occurance  
+H1 :Players are able to play less time after an injury occurance 
+
+Question 3 : is there a diffrence in mean time od recovery between concussion and head injury 
+
+H0: Concussion injury have higher recovery time 
+H1: Concussion injuries have lover recovery time 
+
+ 

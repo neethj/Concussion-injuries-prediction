@@ -1,0 +1,38 @@
+Hello, world!
+
+You successfully submitted your Bitbucket repository URL, and granted
+sufficient access rights to j.noll@herts.ac.uk for me to push this file.
+
+Congratulations!
+
+You are now ready for the next deliverable (the research question).
+
+CAUTION! Never, EVER delete this repository!
+
+If you do, you will:
+
+1.  Lose all of your project history, meaning everything you did up to
+    the time you deleted the repository will be lost and it will be as
+    if you never submitted anything.
+
+    This will result in a failing grade.
+
+2.  End up with a different URL from the one submitted for the Bitbucket
+    URL assignment. This means you will not get credit for anything you
+    do after you delete your old repository, because we will be looking
+    for your repository at the URL you originally submitted. You are not
+    allowed to re-submit your URLs after the deadline.
+
+    This will result in a failing grade.
+
+Git is extremely resilient, and has been used to manage hundreds of
+millions of repositories, some of which (like the Linux kernel) have
+tens of thousands of files and years of history. It works, full stop.
+
+So, if you think you need to delete your repository and start over, you
+are doing it wrong. Instead, figure out what’s wrong and fix it. Seek
+help, from Google, Stack Exchange, and your module team.
+
+DO NOT DELETE THIS REPOSITORY!
+
+-John Noll
